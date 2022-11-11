@@ -1,0 +1,28 @@
+/*Estilo barra de navegação*/
+.navbar-fundo {
+  background-color: #E6E7E8;
+}
+/* Estilo links barra de navegação*/
+.navbar2 a {
+  float: left;
+  text-align: center;
+  padding: 12px;
+  color: #050505
+  text-decoration: none;
+  font-size: 17px;  
+}
+/*Mudança ao apssar o mouse*/
+.teste:hover {
+  background-color: ##F27405;
+  color: #ffffff
+} 
+/*Nova classe*/
+.active{
+  background-color: #616161
+}
+/*estilo de imagens*/
+.fotocatalogo{
+width: 150px;
+height: 150px;
+}
+
